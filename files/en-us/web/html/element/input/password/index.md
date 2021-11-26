@@ -71,7 +71,7 @@ Specifics of how the entry process works may vary from browser to browser; mobil
         {{domxref("HTMLInputElement.select", "select()")}},
         {{domxref("HTMLInputElement.setRangeText", "setRangeText()")}},
         and
-        {{domxref("HTMLInputElement.setSelectionRange", "setSelectionRange()")}}
+        {{domxref("HTMLInputElement.setSelectionRange", "setSelectionRanyge()")}}
       </td>
     </tr>
   </tbody>
